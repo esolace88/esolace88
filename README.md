@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![I am Cloud Computing Engineer.](https://github.com/MoRoble/MoRoble/blob/main/PicsArt_03-10-12.13.17.jpg)
+![I am Cloud Computing Engineer.] <!--(<Enter URL of Pic>)-->
 
-### Hi there 👋, my name is Roble
+### Hi there 👋, my name is Eric
 #### I am Cloud Computing Engineer.
 
 I am a Junior DevOps Engineer with experience in deploying and managing infrastructure using HashiCorp Terraform and Jenkins. Proficient in AWS services such as CloudWatch, S3, Route 53, VPC, EC2, IAM Users & Roles, Lambda and serverless architecture. Skilled in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP. 
@@ -57,24 +57,9 @@ I will be assuming Hodan School as part of my project scenarios.
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoRoble)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esolace88)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoRoble&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=esolace88&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/MoRoble)  
-<!--
-**MoRoble/MoRoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Projects on AWS cloud solutions
-- 🌱 I’m currently learning Terraform
-- 👯 I’m looking to collaborate on cloud computiong
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoRoble&theme=darcula&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esolace88&theme=darcula&show_icons=true)
