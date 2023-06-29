@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Eric
 #### I am Cloud Infratructure Engineer.
 
-I have deep-rooted passion for cloud architecture and cybersecurity. I enjoy creating cloud solutions in both AWS and Azure enviroments, especially leveraging cloud services to create an informative platform i.e interliking storage, compute, networks, monitoring, IAM and serverless architecture services. I am experienced in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP. 
+I am deeply passionate about cloud architecture and cybersecurity and enjoy crafting innovative cloud solutions in AWS and Azure environments. My expertise lies in strategically leveraging cloud services to create an interconnected platform that seamlessly integrates storage, compute networks, monitoring, IAM, and serverless architecture services. My technical proficiency extends to using Docker and Linux, along with a well-rounded experience in a widespread open-source implementation of the Lightweight Directory Access Protocol (LDAP).
 
-In addition to my technical skills, I am also well-versed in cloud migration projects and Agile methodologies. I understand the importance of clear and concise documentation and use Confluence to document processes and procedures. This helps ensure that all team members have a clear understanding of what needs to be done, how it needs to be done, and when it needs to be done. 
+Complementing my technical abilities, I bring a solid track record in managing cloud migration projects and implementing Agile methodologies. I am a firm believer in the power of clear and comprehensive documentation. Whenever possible, I harness the capabilities of Draw.io to sketch AWS/Azure architecture diagrams. This aids in the visualization and articulation of infrastructure design and dependencies to both team members and stakeholders. By doing so, we can elevate team efficiency and guarantee that projects are delivered punctually, within budget, and to the highest quality standards.
 
-I also use Drow.io to draw AWS architecture diagrams, this helps me to visualize and communicate the infrastructure design and dependencies to the team members and stakeholders. This improves the efficiency of the team and ensures that projects are delivered on time, on budget, and to the highest quality. Overall, I believe that good documentation and use of agile methodologies, along with visualization tools such as Drow.io, are key to delivering successful projects and I make sure to apply them in my daily work.
+Overall, the key to successful project execution lies in meticulous documentation, adopting Agile methodologies, and using visualization tools like Draw.io. Inculcating these into my daily workflow, I continually strive to exceed project goals and deliver exceptional results.
 
 
 -------------
