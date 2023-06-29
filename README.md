@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Eric
 #### I am Cloud Infratructure Engineer.
 
-I'm a IT professional with a deep-rooted passion for cloud architecture and cybersecurity. I enjoy creating cloud solutions in both AWS and Azure enviroments, especially using  Proficient in AWS services such as CloudWatch, S3, Route 53, VPC, EC2, IAM Users & Roles, Lambda and serverless architecture. Skilled in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP. 
+I have deep-rooted passion for cloud architecture and cybersecurity. I enjoy creating cloud solutions in both AWS and Azure enviroments, especially leveraging cloud services to create an informative platform i.e interliking CloudWatch, S3, Route 53, VPC, EC2, IAM Users & Roles, and serverless architecture. Skilled in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP. 
 
 In addition to my technical skills, I am also well-versed in Agile methodologies and use tools such as Jira to manage and track tasks and projects. I understand the importance of clear and concise documentation and use Confluence to document processes and procedures. This helps ensure that all team members have a clear understanding of what needs to be done, how it needs to be done, and when it needs to be done. 
 
