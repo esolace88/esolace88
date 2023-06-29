@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![I am Cloud Computing Engineer.] <!--(<Enter URL of Pic>)-->
+<!--![I am Cloud Computing Engineer.] (<Enter URL of Pic>)-->
 
 ### Hi there 👋, my name is Eric
 #### I am Cloud Computing Engineer.
