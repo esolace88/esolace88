@@ -26,25 +26,18 @@ Overall, the key to successful project execution lies in meticulous documentatio
 
 
 -------------
-*in my previous studies*
 
-I am passionate about technology and the role it plays in enabling businesses to achieve their goals. I am excited to continue to grow my career in the field of DevOps and look forward to contributing to the success of future projects and teams.
-
-
-I made this project as it my first projet in github just for fun, it allows me demonstrate my technical skill in cloud computing. Very soon I am going to upload several projects that will help me strengthen my ability of doing the right things at the right time. 
-
-I will be assuming Hodan School as part of my project scenarios. 
+This initial project, hosted on Github, was undertaken as a recreational endeavor and a platform to showcase my technical proficiency in cloud computing. I intend to add a series of projects to refine my capabilities further, particularly emphasizing my aptitude for executing tasks optimally and efficiently. Stay tuned for these forthcoming demonstrations of my expertise, as they promise to be both innovative and enlightening. 
 
 ##Skills and Experience: 
 * ⛈ AWS / Azure
 * 💻 Python
 * 🖱 CISSP
-* ⌨ Route 53, DNS, VPC Peering
+* ⌨ Kubernetes, Automation, Network Peering
 
 - 🔭 I’m currently working on Kubernetes/AKS/Docker projects
 - 🌱 I’m currently learning Terraform 
 - 👯 I’m looking to collaborate on Cloud Computing 
-- 🤔 I’m looking for help with coding 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MoRoble)  
