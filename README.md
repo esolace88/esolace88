@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 <!--![I am Cloud Computing Engineer.] (<Enter URL of Pic>)-->
 
 ### Hi there 👋, my name is Eric
-#### I am Cloud Computing Engineer.
+#### I am Cloud Infratructure Engineer.
 
-I am a Junior DevOps Engineer with experience in deploying and managing infrastructure using HashiCorp Terraform and Jenkins. Proficient in AWS services such as CloudWatch, S3, Route 53, VPC, EC2, IAM Users & Roles, Lambda and serverless architecture. Skilled in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP. 
+I'm a IT professional with a deep-rooted passion for cloud architecture and cybersecurity. I enjoy creating cloud solutions in both AWS and Azure enviroments, especially using  Proficient in AWS services such as CloudWatch, S3, Route 53, VPC, EC2, IAM Users & Roles, Lambda and serverless architecture. Skilled in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP. 
 
 In addition to my technical skills, I am also well-versed in Agile methodologies and use tools such as Jira to manage and track tasks and projects. I understand the importance of clear and concise documentation and use Confluence to document processes and procedures. This helps ensure that all team members have a clear understanding of what needs to be done, how it needs to be done, and when it needs to be done. 
 
 I also use Drow.io to draw AWS architecture diagrams, this helps me to visualize and communicate the infrastructure design and dependencies to the team members and stakeholders. This improves the efficiency of the team and ensures that projects are delivered on time, on budget, and to the highest quality. Overall, I believe that good documentation and use of agile methodologies, along with visualization tools such as Drow.io, are key to delivering successful projects and I make sure to apply them in my daily work.
-
-Currently working with BJSS to deliver high-quality and scalable solutions.
-
-
 
 
 -------------
@@ -40,12 +36,12 @@ I made this project as it my first projet in github just for fun, it allows me d
 I will be assuming Hodan School as part of my project scenarios. 
 
 ##Skills and Experience: 
-* ⛈ AWS
-* 💻 Microsoft 365
-* 🖱 CCNA
+* ⛈ AWS / Azure
+* 💻 Python
+* 🖱 CISSP
 * ⌨ Route 53, DNS, VPC Peering
 
-- 🔭 I’m currently working on AWS Projects 
+- 🔭 I’m currently working on Kubernetes/AKS/Docker projects
 - 🌱 I’m currently learning Terraform 
 - 👯 I’m looking to collaborate on Cloud Computing 
 - 🤔 I’m looking for help with coding 
