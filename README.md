@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <!--![I am Cloud Computing Engineer.] (<Enter URL of Pic>)-->
 
 ### Hi there 👋, my name is Eric
-#### I am Cloud Infratructure Engineer.
+#### I am Cloud Infrastructure Engineer.
 
-I am deeply passionate about cloud architecture and cybersecurity and enjoy crafting innovative cloud solutions in AWS and Azure environments. My expertise lies in strategically leveraging cloud services to create an interconnected platform that seamlessly integrates storage, compute networks, monitoring, IAM, and serverless architecture services. <!--My technical proficiency extends to using Docker and Linux, along with a well-rounded experience in a widespread open-source implementation of the Lightweight Directory Access Protocol (LDAP).-->
+I am deeply passionate about cloud architecture and cybersecurity and enjoy crafting innovative cloud solutions in AWS and Azure environments. My expertise is strategically leveraging cloud services to create an interconnected platform seamlessly integrating storage, compute networks, monitoring, IAM, and serverless architecture services. <!--My technical proficiency extends to using Docker and Linux, along with a well-rounded experience in a widespread open-source implementation of the Lightweight Directory Access Protocol (LDAP).-->
 
 Complementing my technical abilities, I bring a solid track record in managing cloud migration projects and implementing Agile methodologies. I am a firm believer in the power of clear and comprehensive documentation. Whenever possible, I harness the capabilities of Draw.io to sketch AWS/Azure architecture diagrams. This aids in the visualization and articulation of infrastructure design and dependencies to both team members and stakeholders. By doing so, we can elevate team efficiency and guarantee that projects are delivered punctually, within budget, and to the highest quality standards.
 
@@ -27,7 +27,7 @@ Overall, the key to successful project execution lies in meticulous documentatio
 
 -------------
 
-This initial project, hosted on Github, was undertaken as a recreational endeavor and a platform to showcase my technical proficiency in cloud computing. I intend to add a series of projects to refine my capabilities further, particularly emphasizing my aptitude for executing tasks optimally and efficiently. Stay tuned for these forthcoming demonstrations of my expertise, as they promise to be both innovative and enlightening. 
+This initial project, hosted on Github, was a recreational endeavor and a platform to showcase my technical proficiency in cloud computing. I intend to add a series of projects to refine my capabilities further, particularly emphasizing my aptitude for executing tasks optimally and efficiently. Stay tuned for these forthcoming demonstrations of my expertise, as they promise to be both innovative and enlightening. 
 
 ##Skills and Experience: 
 * ⛈ AWS / Azure
